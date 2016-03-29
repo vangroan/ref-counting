@@ -1,6 +1,6 @@
 
 #ifndef REF_H
-#define REH_H
+#define REF_H
 
 #include <stddef.h>
 
