@@ -1,5 +1,5 @@
 
-Simple C reference counting
+Simple C reference counting test
 
 [Generic C Reference Counting](http://nullprogram.com/blog/2015/02/17/)
 
